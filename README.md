@@ -1,2 +1,2 @@
 # suduko_visualizer
-visualize the most popular game suduko solution using backtrack algorithm
+this is a java destop application to visualize the solution of suduko game using backtrack algorithm 
